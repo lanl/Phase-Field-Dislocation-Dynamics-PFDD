@@ -18,5 +18,7 @@ Related review articles:
 1.	A. Hunter, B. Leu, and I. J. Beyerlein, “A review of slip transfer: applications of mesoscale techniques”, Journal of Materials Science, 53 (2018) 5584-5603.
 2.	I. J. Beyerlein and A. Hunter, “Understanding dislocation mechanics at the meso-scale using phase field dislocation dynamics”, Philosophical Transactions A, 374 (2016).
 
+PFDD relies on a Fast Fourier Transform (FFT).  Any FFT solver can be employed, but as posted in the repo the parallel version is set-up to use FFTW 2.1.5, and the serial version is set-up to use the Numerical Recipes fourn subroutine.  Note in order to run the codes, you need to obtain your own copies of either FFTW 2.1.5 or the Numerical Recipes fourn subroutine.  
+
 PFDD is distributed as open source software available under the BSD-3 license.
  
