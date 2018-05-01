@@ -11,4 +11,4 @@ Sign the CLA here: <a href="https://www.clahub.com/agreements/lanl/Phase-Field-D
 
 # License
 
-PFDD is distributed as open source software available under the BSD-3 license [Copyright License](LICENSE.md).
+PFDD is distributed as open source software available under the BSD-3 license [Copyright License](LICENSE).
