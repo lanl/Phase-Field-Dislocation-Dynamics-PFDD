@@ -7,7 +7,7 @@ If you are external to this organization, we request that you complete a Contrib
 
 Please let us know after you have completed the CLA so that we can cross-check signers with your GitHub username. This license is for your protection as a Contributor as well as the protection of LANL; it does not change your rights to use your own Contributions for any other purpose.
 
-Sign the CLA here: <a href="https://www.clahub.com/agreements/lanl/Phase-Field-Dislocation-Dynamics-PFDD">sign the Contributor License Agreement</a>.
+Sign the CLA here: <a href="https://www.clahub.com/agreements/lanl/Phase-Field-Dislocation-Dynamics-PFDD">Sign the Contributor License Agreement</a>.
 
 # License
 
